@@ -56,3 +56,7 @@ console.log(palabras.length);
 
 // Bonus 2
 
+// let phraseToCheck = "Amor, Roma";
+// phraseToCheck.replace(/\s+/g, '').toLowerCase();
+
+// console.log(phraseToCheck);
